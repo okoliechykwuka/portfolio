@@ -11,18 +11,11 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
-#### Home Page
-<p align="center"> 
-  <kbd>
-    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website_images/HomePage.gif">
-  </a>
-  </kbd>
-</p>
 
 #### About Page
 <p align="center"> 
   <kbd>
-    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website_images/AboutPage.png">
+    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website/Aboutpage.jpg">
   </a>
   </kbd>
 </p>
@@ -30,7 +23,7 @@
 #### Projects Page
 <p align="center"> 
   <kbd>
-    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website_images/ProjectPage.png">
+    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website_images/Projectpage.jpg">
   </a>
   </kbd>
 </p>
@@ -88,3 +81,6 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
+## Copy right 
+[Rajaprerak](https://github.com/rajaprerak)
