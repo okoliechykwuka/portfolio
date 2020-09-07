@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 
-> [My Portfolio Link!](https://okoliechykwuka.github.io/portfolio/)
+> [My Portfolio Link](https://okoliechykwuka.github.io/portfolio/)
 
 
 :star: Star me on GitHub — it helps!
