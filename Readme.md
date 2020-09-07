@@ -23,7 +23,7 @@
 #### Projects Page
 <p align="center"> 
   <kbd>
-    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website_images/Projectpage.JPG">
+    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website/Projectpage.JPG">
   </a>
   </kbd>
 </p>
