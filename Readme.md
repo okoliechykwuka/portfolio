@@ -11,6 +11,13 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
+#### HomePage
+<p align="center"> 
+  <kbd>
+    <a href="https://okoliechykwuka.github.io/portfolio/" target="_blank"><img src="website/My Portfolio.gif">
+  </a>
+  </kbd>
+</p>
 
 #### About Page
 <p align="center"> 
