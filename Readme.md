@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
+# Okolie Chukwuka 🔥
 
 > [My Portfolio Link](https://okoliechykwuka.github.io/portfolio/)
 
